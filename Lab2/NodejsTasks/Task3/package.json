@@ -1,0 +1,9 @@
+{
+  "name": "task3",
+  "version": "0.0.0",
+  "description": "Task3",
+  "main": "app.js",
+  "author": {
+    "name": "den25"
+  }
+}

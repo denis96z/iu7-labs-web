@@ -1,0 +1,12 @@
+{
+  "name": "task2",
+  "version": "0.0.0",
+  "description": "Task2",
+  "main": "app.js",
+  "author": {
+    "name": "den25"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
